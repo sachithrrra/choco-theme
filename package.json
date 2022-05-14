@@ -1,0 +1,27 @@
+{
+  "name": "choco-theme",
+  "displayName": "Choco Theme",
+  "description": "A cool dark theme for VSCode.",
+  "version": "1.1.0",
+  "publisher": "sachla",
+  "icon": "assets/choco-theme-logo.png",
+  "repository": {
+    "url": "https://github.com/sachla/choco-theme.git",
+    "type": "git"
+  },
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Choco Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Choco Theme-color-theme.json"
+      }
+    ]
+  }
+}
