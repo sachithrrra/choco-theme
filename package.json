@@ -2,7 +2,7 @@
   "name": "choco-theme",
   "displayName": "Choco Theme",
   "description": "A cool dark theme for VSCode.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "sachla",
   "icon": "assets/choco-theme-logo.png",
   "repository": {
